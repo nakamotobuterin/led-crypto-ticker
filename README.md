@@ -1,6 +1,6 @@
 ## Requirements
-Adafruit MatrixPortal M4: https://www.adafruit.com/product/4745
-Adafruit 64x32 RGB LED Matrix: https://www.adafruit.com/product/2278
+- Adafruit MatrixPortal M4: https://www.adafruit.com/product/4745
+- Adafruit 64x32 RGB LED Matrix: https://www.adafruit.com/product/2278
 
 ## Instructions
 - Assemble MatrixPortal and LED Matrix (https://learn.adafruit.com/matrix-portal-new-guide-scroller/prep-the-matrixportal)
